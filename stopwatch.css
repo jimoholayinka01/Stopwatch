@@ -1,0 +1,50 @@
+body{
+    background-color: aquamarine;
+}
+#minutes{
+    width: 200px;
+    height: 50px;
+    border: none;
+    outline: blue;
+    background-color: aqua;
+    color: black;
+    font-size: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+#secs{
+    width: 200px;
+    height: 50px;
+    border: none;
+    outline: blue;
+    background-color: aqua;
+    color: black;
+    font-size: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+#but{
+    height: 50px;
+    background-color: rgb(55, 55, 77);
+    width: 70px;
+    border: none;
+    border-radius: 20px;
+    color:aqua;
+    font-size: 30px;
+}
+h1{
+    /* border: 3px solid black; */
+    width: 480px;
+    /* height: 60px; */
+    font-size: 150px;
+    text-align: center;
+    color: brown;
+    /* border-radius: 30px; */
+}
+#jim{
+    border: 3px solid aqua;
+    width: 500px;
+    padding: 20px;
+    background-color: rgb(65, 155, 155);
+
+}
